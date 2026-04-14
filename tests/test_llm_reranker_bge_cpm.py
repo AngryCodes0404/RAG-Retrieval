@@ -65,4 +65,3 @@ rag_retrieval_doc_ranked is results=[Result(doc_id=1, text='The giant panda (Ail
 rag_retrieval_scores is [15.1171875, 27.453125]
 bge_scores is [15.1171875, 27.453125]
 '''
-
