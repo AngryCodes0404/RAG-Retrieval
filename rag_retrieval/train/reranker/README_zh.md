@@ -191,4 +191,3 @@ res = reranker.compute_score(input_lst)
 print(torch.sigmoid(res[0]))
 print(torch.sigmoid(res[1]))
 ```
-
