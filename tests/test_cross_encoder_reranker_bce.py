@@ -79,4 +79,3 @@ rag_retrieval_scores is [0.34393033385276794, 0.5790157914161682]
 bce_doc_ranked is {'rerank_passages': ['The giant panda (Ailuropoda melanoleuca), sometimes called a panda bear or simply panda, is a bear species endemic to China.', 'hi'], 'rerank_scores': [0.5790157914161682, 0.34393033385276794], 'rerank_ids': [1, 0]}
 bce_scores is [0.34393033385276794, 0.5790157914161682]
 '''
-
